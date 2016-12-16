@@ -1408,6 +1408,7 @@ Challenge sites:
 - [Codility](https://codility.com/programmers/)
 - [InterviewCake](https://www.interviewcake.com/)
 - [InterviewBit](https://www.interviewbit.com/invite/icjf)
+- [Codefights](https://codefights.com/signup/qohFLRLn8yXAF3RCh/main)
 
 Maybe:
 - [Mock interviewers from big companies](http://www.gainlo.co/)
